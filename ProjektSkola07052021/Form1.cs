@@ -21,5 +21,10 @@ namespace ProjektSkola07052021
         {
             MessageBox.Show("Ahoj");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Juppiiiii");
+        }
     }
 }
